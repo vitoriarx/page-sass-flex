@@ -1,0 +1,209 @@
+* {
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  width: 450px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.signup {
+  color: rgb(76, 181, 56);
+  border: none;
+}
+
+.imagem {
+  display: flex;
+  justify-content: flex-start;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+}
+
+.text-one {
+  display: flex;
+  position: absolute;
+  top: 25%;
+  left: 55%;
+  color: #17233D;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.text-two {
+  display: flex;
+  position: absolute;
+  top: 35%;
+  left: 55%;
+  width: 30%;
+  color: rgba(75, 80, 90, 0.8823529412);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.button-one {
+  border: none;
+  background-color: rgb(76, 181, 56);
+  border-radius: 4px;
+  display: flex;
+  position: absolute;
+  top: 2%;
+  left: 28%;
+  width: 5%;
+  height: 3%;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-two {
+  border: none;
+  background-color: rgb(76, 181, 56);
+  border-radius: 4px;
+  display: flex;
+  position: absolute;
+  top: 55%;
+  left: 55%;
+  width: 130px;
+  height: 35px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 1440px) {
+  .text-one {
+    position: absolute;
+    top: 25%;
+    left: 65%;
+  }
+  .text-two {
+    position: absolute;
+    top: 35%;
+    left: 65%;
+  }
+  .button-two {
+    position: absolute;
+    top: 60%;
+    left: 65%;
+  }
+  .button-one {
+    position: absolute;
+    top: 2%;
+    left: 38%;
+  }
+}
+@media (max-width: 1024px) {
+  .text-one {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+  }
+  .text-two {
+    position: absolute;
+    top: 90%;
+    left: 28%;
+    text-align: center;
+    width: 500px;
+  }
+  .button-one {
+    position: absolute;
+    top: 2%;
+    left: 48%;
+    width: 100px;
+  }
+  .button-two {
+    position: absolute;
+    top: 110%;
+    left: 46%;
+  }
+  .imagem {
+    position: absolute;
+    top: auto;
+    left: 220px;
+  }
+}
+@media (max-width: 768px) {
+  .text-two {
+    position: absolute;
+    top: 90%;
+    left: 23%;
+    text-align: center;
+    width: 500px;
+  }
+  .button-two {
+    position: absolute;
+    top: 110%;
+    left: 48%;
+  }
+  .button-one {
+    position: absolute;
+    top: 25px;
+    left: 70%;
+  }
+  .imagem {
+    position: absolute;
+    top: auto;
+    left: 15%;
+  }
+}
+@media (max-width: 425px) {
+  .text-one {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    width: 100%;
+  }
+  .text-two {
+    position: absolute;
+    top: 90%;
+    left: 15%;
+    text-align: center;
+    width: 500px;
+  }
+  .button-one {
+    position: absolute;
+    top: 25px;
+    left: 110%;
+  }
+  .button-two {
+    position: absolute;
+    top: 110%;
+    left: 60%;
+  }
+  .imagem {
+    height: 50%;
+  }
+}
+@media (max-width: 375px) {
+  .button-one {
+    position: absolute;
+    top: 55%;
+    left: 150%;
+  }
+}
+@media (max-width: 375px) {
+  .text-one {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    width: 150%;
+  }
+  .button-one {
+    position: absolute;
+    top: 55px;
+    left: 120%;
+  }
+  .button-two {
+    position: absolute;
+    top: 110%;
+    left: 75%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
