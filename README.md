@@ -6,7 +6,7 @@ Projeto desenvolvido para estudo.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Link para teste: 
+Link para teste: https://vitoriarx.github.io/page-sass-flex/
 
 
 
@@ -39,7 +39,7 @@ Ferramentas usadas para criar o projeto:
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença de vitoriarx - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
