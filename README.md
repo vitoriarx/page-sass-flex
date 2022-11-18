@@ -36,7 +36,6 @@ Ferramentas usadas para criar o projeto:
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [vitoriarx](https://github.com/vitoriarx)
 
-Link para teste:  https://gallant-bohr-4b0bed.netlify.app
 
 ## 📄 Licença
 
